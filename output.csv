@@ -1,0 +1,3 @@
+,Current_moment,prediction,probability
+DNN,2017-08-17 04-AM,The price will be lower,0.99
+LSTM,2017-08-17 04-AM,The price will be lower,0.54
