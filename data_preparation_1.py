@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Sep 10 14:14:44 2019
 
-@author: Alex283h
 """
 # Import all required libraries
 import pandas as pd 
